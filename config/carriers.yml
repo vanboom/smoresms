@@ -1,0 +1,230 @@
+---
+  alltel:
+    name: Alltel
+    host: message.alltel.com
+  ameritech:
+    name: Ameritech
+    host: paging.acswireless.com
+  att:
+    name: ATT
+    host: txt.att.net
+  bell-atlantic:
+    name: Bell Atlantic
+    host: message.bam.com
+  bellsouthmobility:
+    name: Bellsouth Mobility
+    host: blsdcs.net
+  blueskyfrog:
+    name: BlueSkyFrog
+    host: blueskyfrog.com
+  boost:
+    name: Boost Mobile
+    host: myboostmobile.com
+  cellularsouth:
+    name: Cellular South
+    host: csouth1.com
+  comcast:
+    name: Comcast PCS
+    host: comcastpcs.textmsg.com
+  cricket:
+    name: Cricket
+    host: sms.mycricket.com
+  kajeet:
+    name: kajeet
+    host: mobile.kajeet.net
+  metropcs:
+    name: Metro PCS
+    host: mymetropcs.com
+  nextel:
+    name: Nextel
+    host: messaging.nextel.com
+  powertel:
+    name: Powertel
+    host: ptel.net
+  pscwireless:
+    name: PSC Wireless
+    host: sms.pscel.com
+  qwest:
+    name: Qwest
+    host: qwestmp.com
+  southernlink:
+    name: Southern Link
+    host: page.southernlinc.com
+  sprint:
+    name: Sprint PCS
+    host: messaging.sprintpcs.com
+  suncom:
+    name: Suncom
+    host: tms.suncom.com
+  t-mobile:
+    name: T-Mobile
+    host: tmomail.net
+  tracfone:
+    name: Tracfone
+    host: mmst5.tracfone.com
+  telus-mobility:
+    name: Telus Mobility
+    host: msg.telus.com
+  virgin:
+    name: Virgin Mobile
+    host: vmobl.net
+  verizon:
+    name: Verizon Wireless
+    host: vtext.com
+  # International Carriers
+  aliant-canada:
+    name: Aliant (Canada)
+    host: chat.wirefree.ca
+  beeline-ua:
+    name: Beeline
+    host: sms.beeline.ua
+  bellmobility-canada:
+    name: Bell Mobility (Canada)
+    host: txt.bell.ca
+  bpl-mobile:
+    name: BPL Mobile
+    host: bplmobile.com
+  claro-brazil:
+    name: Claro (Brazil)
+    host: clarotorpedo.com.br
+  claro-nicaragua:
+    name: Claro (Nicaragua)
+    host: ideasclaro-ca.com
+  du-arab-emirates:
+    name: Du (UAE)
+    host: email2sms.ae
+  e-plus-germany:
+    name: E-Plus (Germany)
+    host: smsmail.eplus.de
+  etisalat-arab-emirates:
+    name: Etisalat (UAE)
+    host: email2sms.ae
+  fido-canada:
+    name: Fido
+    host: fido.ca
+  manitobatelecom-canada:
+    name: Manitoba Telecom (Canada)
+    host: text.mtsmobility.com
+  mobinil-egypt:
+    name: Mobinil
+    host: mobinil.net
+  mobistar-belgium:
+    name: Mobistar (Belgium)
+    host: mobistar.be
+  mobitel:
+    name: Mobitel
+    host: sms.mobitel.lk
+  movistar-spain:
+    name: Movistar (Spain)
+    host: correo.movistar.net
+  northerntel-canada:
+    name: NorthernTel (Canada)
+    host: txt.northerntelmobility.com
+  o2-germany:
+    name: o2 (Germany)
+    host: o2online.de
+  o2-uk:
+    name: o2 (UK)
+    host: mmail.co.uk
+  orange-mumbai:
+    name: Orange (Mumbai)
+    host: orangemail.co.in
+  orange-netherlands:
+    name: Orange (Netherlands)
+    host: sms.orange.nl
+  orange-uk:
+    name: Orange (UK)
+    host: orange.net
+  rogers-wireless:
+    name: Rogers Wireless
+    host: pcs.rogers.com
+  rogers-canada:
+    name: Rogers (Canada)
+    host: pcs.rogers.ca
+  sasktel-canada:
+    name: SaskTel (canada)
+    host: sms.sasktel.ca
+  sfr-france:
+    name: SFR (France)
+    host: sfr.fr
+  t-mobile-austria:
+    name: T-Mobile (Austria)
+    host: sms.t-mobile.at
+  t-mobile-germany:
+    name: T-Mobile (Germany)
+    host: t-d1-sms.de
+  t-mobile-germany:
+    name: T-Mobile (Netherlands)
+    host: gin.nl
+  t-mobile-uk:
+    name: T-Mobile (UK)
+    host: t-mobile.uk.net
+  telebec-canada:
+    name: Telebec (Canada)
+    host: txt.telebecmobilite.com
+  telefonica-spain:
+    name: Telefonica (Spain)
+    host: movistar.net
+  telus-canada:
+    name: Telus (Canada)
+    host: msg.telus.com
+  virgin-canada:
+    name: Virgin (Canada)
+    host: vmobile.ca
+  vodafone-germany:
+    name: Vodafone (Germany)
+    host: vodafone-sms.de
+  vodafone-egypt:
+    name: Vodafone (Egypt)
+    host: vodafone.com.eg
+  vodafone-uk:
+    name: Vodafone (UK)
+    host: sms.vodafone.net
+  vodafone-italy:
+    name: Vodafone (Italy)
+    host: sms.vodafone.it
+  vodafone-jp-chuugoku:
+    name: Vodafone (Japan - Chuugoku)
+    host: n.vodafone.ne.jp
+  vodafone-jp-hokkaido:
+    name: Vodafone (Japan - Hokkaido)
+    host: d.vodafone.ne.jp
+  vodafone-jp-hokuriko:
+    name: Vodafone (Japan - Hokuriko)
+    host: r.vodafone.ne.jp
+  vodafone-jp-kansai:
+    name: Vodafone (Japan - Kansai)
+    host: k.vodafone.ne.jp
+  vodafone-jp-osaka:
+    name: Vodafone (Japan - Osaka)
+    host: k.vodafone.ne.jp
+  vodafone-jp-kanto:
+    name: Vodafone (Japan - Kanto)
+    host: k.vodafone.ne.jp
+  vodafone-jp-koushin:
+    name: Vodafone (Japan - Koushin)
+    host: k.vodafone.ne.jp
+  vodafone-jp-tokyo:
+    name: Vodafone (Japan - Tokyo)
+    host: k.vodafone.ne.jp
+  vodafone-jp-kyuushu:
+    name: Vodafone (Japan - Kyuushu)
+    host: q.vodafone.ne.jp
+  vodafone-jp-okinawa:
+    name: Vodafone (Japan - Okinawa)
+    host: q.vodafone.ne.jp
+  vodafone-jp-shikoku:
+    name: Vodafone (Japan - Shikoku)
+    host: s.vodafone.ne.jp
+  vodafone-jp-touhoku:
+    name: Vodafone (Japan - Touhoku)
+    host: h.vodafone.ne.jp
+  vodafone-jp-niigata:
+    name: Vodafone (Japan - Niigata)
+    host: h.vodafone.ne.jp
+  vodafone-jp-toukai:
+    name: Vodafone (Japan - Toukai)
+    host: h.vodafone.ne.jp
+  vodafone-spain:
+    name: Vodafone (Japan - Spain)
+    host: vodafone.es
