@@ -6,9 +6,7 @@ require "bundler/cli"
 
 require "validates_phone_number"
 require "smoresms/sms"
-
+require "smoresms/smoresms_helper"
 GEM_ROOT = File.expand_path("../..", __FILE__)
 
-# console test
-#s = SmoreSMS::SMS.new(:number=>"3142778090", :carrier=>"verizon", :from=>"test@smoresms.com", :name=>"SmoreSMS Tester")
-#s.deliver("test", "test")
+ActionController::Base.helper SmoreSMS::Helpers
