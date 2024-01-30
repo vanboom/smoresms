@@ -67,7 +67,7 @@
     host: msg.telus.com
   virgin:
     name: Virgin Mobile
-    host: vmobl.net
+    host: vmobl.com
   verizon:
     name: Verizon Wireless
     host: vtext.com
